@@ -1,0 +1,14 @@
+# Rust / Substrate
+/target
+Cargo.lock
+
+# Solidity / Hardhat / Foundry
+node_modules/
+artifacts/
+cache/
+typechain-types/
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
